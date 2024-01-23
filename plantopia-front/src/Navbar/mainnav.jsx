@@ -10,6 +10,7 @@ function Mainnav(){
         <p>Planters</p>
         <p>Seeds</p>
         <p>Offer</p>
+        <p>About</p>
         
     </div>
 }
