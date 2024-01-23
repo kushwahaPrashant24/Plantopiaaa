@@ -1,0 +1,18 @@
+#homepage{
+   
+    height: 400px;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#images{
+    height: 380px;
+    width: 95vw;
+    
+}
+#two{
+    width: 95vw;
+    height: 380px;
+}

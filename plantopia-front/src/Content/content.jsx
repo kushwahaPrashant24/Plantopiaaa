@@ -3,7 +3,7 @@ import Homepage from "./homepage";
 
 function  Content(){
     return <div><Homepage />
-    <h1></h1></div>
+    </div>
 }
 
 export default Content;
