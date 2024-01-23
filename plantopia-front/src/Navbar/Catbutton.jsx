@@ -12,6 +12,7 @@ import Categories from './Categories';
       component="form"
       sx={{
         '& .MuiTextField-root': { m: 3, width: '35ch' },
+        
       }}
       noValidate
       autoComplete="off"
