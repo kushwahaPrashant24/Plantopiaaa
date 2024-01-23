@@ -1,5 +1,5 @@
 #main-logo{
-
+ width: 90vw;
   display: flex;
   justify-content: space-around;
 }
@@ -35,6 +35,7 @@
 #mainnav{
   height: 50px;
   width: 100vw;
+  margin-left: 0px;
  background-color: rgba(72, 116, 44, 1);
  color: 
  rgba(255, 255, 255, 1);
