@@ -30,6 +30,13 @@
   margin-top: 30px;
 }
 
+#btn-searchclick{
+  background-color:transparent;
+  border-color: transparent;
+  z-index: 1;
+
+}
+
   /*mainnav*/
 
 #mainnav{
