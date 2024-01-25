@@ -1,6 +1,6 @@
 import React from "react";
 import './content.css';
-import CurrencyRupeeIcon from '@mui/icons-material/CurrencyRupee';
+import Button from "@mui/material/Button";
 
 function Cards(props){
 
@@ -16,7 +16,11 @@ function Cards(props){
        <p id="price">{props.price}</p>
        <p id="About">{props.About}</p>
        <p>{props.Rating}</p>
-       <button onClick={HandleClick} id="button-card">{props.button}</button>
+       <Button onClick={HandleClick} id="button-card" variant="contained" color="success">
+       {props.button}
+    </Button>
+      
+
         </div>
         </div>
     </div>
