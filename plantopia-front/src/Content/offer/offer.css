@@ -14,6 +14,7 @@
     background-color: rgb(226, 202, 43);
     display: flex;
     
+    
 }
 
 .one{
@@ -31,6 +32,7 @@
     height: 384px;
     width: 384px;
     background: hsla(89, 62%, 85%, 1);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 background: linear-gradient(90deg, hsla(89, 62%, 85%, 1) 20%, hsla(119, 37%, 47%, 1) 100%);
 
@@ -39,4 +41,52 @@ background: -moz-linear-gradient(90deg, hsla(89, 62%, 85%, 1) 20%, hsla(119, 37%
 background: -webkit-linear-gradient(90deg, hsla(89, 62%, 85%, 1) 20%, hsla(119, 37%, 47%, 1) 100%);
 
 filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#D8F0BF", endColorstr="#4CA44B", GradientType=1 );
+
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: -9px;
+
+}
+
+
+
+.offer-head1{
+    font-weight: 400;
+    font-size: 48px;
+}
+
+.offer-two h2,h3{
+    margin-top: -20px;
+}
+
+.offer-data{
+    display: flex;
+}
+
+.offer-data span{
+    font-size: 20px;
+    padding-top: 20px;
+    padding-left: 10px;
+}
+
+.offer-data p{
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.offer-two p{
+    font-size: 20px;
+    font-weight: 500;
+}
+
+#two-offer{
+    display: flex;
+    
+    gap: -10px;
+}
+
+#offer-button{
+    margin-top: 40px;
 }
