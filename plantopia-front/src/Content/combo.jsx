@@ -21,7 +21,7 @@ function Combo() {
   console.log(combooffer);
 
     return <div>
-        <h2><center>Value For Money - COMBO OFFER</center></h2>
+        <h2 id="offer-heading"><center>Value For Money - COMBO OFFER</center></h2>
         <div id="combo">{combooffer.map(createcard)}</div>
     </div>
 }
