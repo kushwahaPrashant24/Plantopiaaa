@@ -1,0 +1,42 @@
+#offer{
+    height: 384px;
+    width: 100vw;
+    margin-top: 40px;
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    
+}
+
+.offer-main{
+    width: 690px;
+    height: 384px;
+    background-color: rgb(226, 202, 43);
+    display: flex;
+    
+}
+
+.one{
+    height: 384px;
+    width: 360px;
+}
+
+.offer-one{
+    height: 384px;
+    width: 384px;
+    background-color: rgb(25, 10, 39);
+
+}
+.offer-two{
+    height: 384px;
+    width: 384px;
+    background: hsla(89, 62%, 85%, 1);
+
+background: linear-gradient(90deg, hsla(89, 62%, 85%, 1) 20%, hsla(119, 37%, 47%, 1) 100%);
+
+background: -moz-linear-gradient(90deg, hsla(89, 62%, 85%, 1) 20%, hsla(119, 37%, 47%, 1) 100%);
+
+background: -webkit-linear-gradient(90deg, hsla(89, 62%, 85%, 1) 20%, hsla(119, 37%, 47%, 1) 100%);
+
+filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#D8F0BF", endColorstr="#4CA44B", GradientType=1 );
+}

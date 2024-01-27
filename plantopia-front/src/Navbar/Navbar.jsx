@@ -5,11 +5,13 @@ import Search from "./Search";
 import Login from "./login";
 
 
+
 function Navbar() {
     return <div id="main-logo">
        <div id="logo"><img className="img" src={img} /></div>
         <Search />
         <Login />
+        
     </div>
 }
 
