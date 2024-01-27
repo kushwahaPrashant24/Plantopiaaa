@@ -1,0 +1,56 @@
+#main-logo{
+ width: 100vw;
+  display: flex;
+  justify-content: space-around;
+}
+
+.img{
+  height: 7rem;
+  width: 10rem;
+}
+
+#search{
+  
+  display: flex;
+  margin: 0px;
+  margin: 0px;
+}
+
+#fullWidth{
+  margin-left: 0px;
+  
+}
+
+#btn-search{
+  margin-top: 30px;
+  margin-left: -70px;
+}
+
+#login{
+  margin-top: 30px;
+}
+
+#btn-searchclick{
+  background-color:transparent;
+  border-color: transparent;
+  z-index: 1;
+
+}
+
+  /*mainnav*/
+
+#mainnav{
+  height: 50px;
+  width: 100vw;
+  margin-left: 0px;
+ background-color: rgba(72, 116, 44, 1);
+ color: 
+ rgba(255, 255, 255, 1);
+ display: flex;
+ justify-content: space-around;
+ align-items: center;
+}
+
+p {
+  font-size: 20px;
+}

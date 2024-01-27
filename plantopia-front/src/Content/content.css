@@ -1,0 +1,85 @@
+#homepage{
+   
+    height: 420px;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+
+
+#two{
+    width: 93vw;
+    height: 400px;
+}
+
+#offer-heading{
+    margin-top: 50px;
+    margin-bottom: -20px;
+}
+
+/* combo */
+
+#combo{
+
+    display: flex;
+    justify-content: space-around;
+    margin-top: 3rem;
+}
+
+.Card{
+    height: 500px;
+    width: 320px;
+    background-color:rgba(246, 251, 245, 1);
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    box-shadow: 10px 5px 10px 5px  #c6c3c3
+}
+
+#card-img{
+    height: 280px;
+    width: 260px;
+    margin-top: 78px;
+    border: 1px solid rgb(212, 207, 207);
+    
+    
+}
+
+#Card-prop{
+    display: flex;
+    flex-direction: column;
+    padding-left: 20px;
+    padding-right: 20px;
+    
+    
+}
+
+#oldprice{
+    text-decoration: line-through;
+    
+}
+
+#price{
+    color: rgb(67, 103, 32);
+    font-size: 2rem;
+    font-weight: 900;
+    margin-top: -20px;
+}
+
+#About{
+   margin-top: -20px; 
+   font-size: 1.5rem;
+   font-weight: 500;
+}
+
+#button-card{
+    margin-bottom: 90px;
+    height: 50px;
+    width: 280px;
+    color: aliceblue;
+    font-size: 1rem;
+    margin-top: -30px;
+    
+}
