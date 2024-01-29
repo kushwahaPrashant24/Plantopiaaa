@@ -1,6 +1,6 @@
-import image1 from '../Images/pic1.jpeg';
-import image2 from '../Images/pic2.jpeg';
-import image3 from '../Images/pic3.jpeg';
+import image1 from '../../Images/pic1.jpeg';
+import image2 from '../../Images/pic2.jpeg';
+import image3 from '../../Images/pic3.jpeg';
 const Photos = [
 
  {
