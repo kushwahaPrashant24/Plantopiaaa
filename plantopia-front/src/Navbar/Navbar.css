@@ -1,3 +1,8 @@
+body{
+  padding: 0px;
+  margin: 0px;
+}
+
 #main-logo{
  width: 100vw;
   display: flex;

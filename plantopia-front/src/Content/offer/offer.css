@@ -1,3 +1,7 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
 #offer{
     height: 384px;
     width: 100vw;
