@@ -1,5 +1,5 @@
 import React from "react";
-import './content.css';
+import '../content.css';
 import Button from "@mui/material/Button";
 
 function Cards(props){

@@ -1,7 +1,9 @@
 import React from "react";
 import "./offer.css";
 import Button from '@mui/material/Button';
-import image from "../../Images/air purify plant.jpg";
+import image from "../../Images/img1.jpeg";
+import image2 from "../../Images/img2.jpeg";
+
 
 function Offer() {
   return (
@@ -31,7 +33,7 @@ function Offer() {
       </div>
       <div className="offer-main">
         <div className="offer-one">
-          <img className="one" src={image} />
+          <img className="one" src={image2} />
         </div>
         <div className="offer-two" id="two-offer">
         <h1 className="offer-head1">SUMMER</h1>

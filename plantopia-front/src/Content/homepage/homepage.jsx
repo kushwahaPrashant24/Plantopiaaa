@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import Photos from "./photocart";
 import ArrowForwardIosIcon from '@mui/icons-material/ArrowForwardIos';
-import './content.css';
+import '../content.css';
 import ArrowBackIosNewIcon from '@mui/icons-material/ArrowBackIosNew';
-import image1 from '../Images/pic1.jpeg';
+import image1 from '../../Images/pic1.jpeg';
 
 function Homepage(){
 const [image, setImage] = useState(Photos);
