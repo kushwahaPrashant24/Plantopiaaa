@@ -1,0 +1,28 @@
+#foooterHead {
+    margin-top: 39px;
+    background-color: #d0ffdb;
+    height: 298px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+  
+  
+  #Footer-boxone{
+      width: 337px;
+      height: 193px;
+      background-color: rgb(26, 40, 35);
+  }
+
+  #Footer-boxtwo{
+   width: 352px;
+   height: 193px;
+   background-color: aquamarine;
+  }
+ 
+  #Footer-boxthree{
+    width: 547px;
+    height: 208px;
+    background-color: rgb(29, 56, 47);
+   }
+   
