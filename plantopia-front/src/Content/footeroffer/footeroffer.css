@@ -1,17 +1,39 @@
-body{
-    padding: 0px;
-    margin: 0px;
+body {
+  padding: 0px;
+  margin: 0px;
 }
 
-#footeroffer{
+#footeroffer {
+  height: 300px;
+  width: 100vw;
+
+  margin-top: 90px;
+}
+#Pabble {
     height: 300px;
     width: 100vw;
-    background-color: cadetblue;
-    margin-top: 90px;
-    
+    z-index: 1;
+    opacity: 0.35;
+   
+  }
+
+#Pabble-data {
+    z-index: 3;
+  margin-top: -300px;
+  margin-left: 100px;
+  font-weight: 40; 
+  
 }
 
-#Pabble{
-    height: 300px;
-    width: 100vw;
+#Pabble-data h1{
+    font-size: 3rem;
 }
+#Pabble-data div{
+    width: 700px;
+}
+
+#Pabble-data p {
+    font-size: 2rem;
+}
+
+
