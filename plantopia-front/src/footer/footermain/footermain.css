@@ -1,0 +1,79 @@
+#Footermain{
+    height: 460px;
+    width: 100vw;
+    margin-top: 120px;
+   
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+ 
+}
+
+#info{
+    width: 1350px;
+    height: 79px;
+
+   
+    
+}
+
+#info ul{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    list-style-type: none;
+    color: #616161;
+    font-size: 40px;
+    font-weight: 500;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#info-two{
+    display: flex;
+    align-items: center;
+  
+  
+    gap: 6rem;
+    margin-top: 50px;
+}
+
+.Foot-data{
+   
+    padding: 20px;
+    
+
+}
+
+.Foot-data p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 23px;
+    margin-top: -10px;
+}
+
+
+#data-one{
+  height: 184px;
+  width: 266px;
+}
+
+#data-two{
+    height: 184px;
+    width: 229px;
+    
+
+  }
+
+  #data-three{
+    height: 184px;
+    width: 158px;
+  }
+
+  #data-four{
+    height: 184px;
+    width: 326px;
+  }
+
+  #info-three{
+    height: 229px;
+  }
+
