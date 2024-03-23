@@ -10,8 +10,8 @@ body{
 }
 
 .img{
-  height: 7rem;
-  width: 10rem;
+  height: 6rem;
+  width: 9rem;
 }
 
 #search{
@@ -19,6 +19,12 @@ body{
   display: flex;
   margin: 0px;
   margin: 0px;
+  height: 30px;
+  
+}
+
+#search1{
+  height: 50px;
 }
 
 #fullWidth{
@@ -26,13 +32,16 @@ body{
   
 }
 
-#btn-search{
-  margin-top: 30px;
+#btn-searchclick{
+  margin-top: 26px;
   margin-left: -70px;
+  z-index: 1;
+  cursor: pointer;
+  background-color: blue;
 }
 
 #login{
-  margin-top: 30px;
+  margin-top: 40px;
 }
 
 #btn-searchclick{

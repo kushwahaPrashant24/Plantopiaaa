@@ -1,9 +1,11 @@
 import React from "react";
-import Navbar from "./Navbar";
-import Mainnav from "./mainnav";
+import "./Navbar.css"
+import Nav1 from "./Nav1/Nav1";
+import Mainnav from "./Nav2/mainnav";
 
 function Header() {
-    return <div><Navbar />
+    return <div>
+       <Nav1 />
        <Mainnav />
      </div>
 }
