@@ -1,7 +1,6 @@
 import React from "react";
-import css from "./Navbar.css";
-import img from "../Images/plantopia-logo.png";
-import Search from "./Search";
+import img from "../../Images/plantopia-logo.png"
+import Search from "./Search bar/Search";
 import Login from "./login";
 
 

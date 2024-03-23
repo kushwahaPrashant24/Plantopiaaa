@@ -35,7 +35,7 @@ function Footermain() {
           <p>Shop No.14, Mehrauli</p>
           <p> Road, Ghaziabad,</p>
           <p>201002, India</p>
-          <p>Phone: +91-8799503412</p>
+          <p>Phone: +91-979543005</p>
         </div>
       </div>
       <div id="info-three">
